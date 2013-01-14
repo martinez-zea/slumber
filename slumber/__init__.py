@@ -1,7 +1,7 @@
 import posixpath
 import urlparse
 
-import requests
+import requests0 as requests
 
 from slumber import exceptions
 from slumber.serialize import Serializer
